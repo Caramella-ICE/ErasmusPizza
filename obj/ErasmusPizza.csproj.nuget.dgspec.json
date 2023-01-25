@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iop-1\\OneDrive\\Desktop\\A22_Ues\\Software engineering\\ErasmusPizza\\ErasmusPizza.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iop-1\\OneDrive\\Desktop\\A22_Ues\\Software engineering\\ErasmusPizza\\ErasmusPizza.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iop-1\\OneDrive\\Desktop\\A22_Ues\\Software engineering\\ErasmusPizza\\ErasmusPizza.csproj",
+        "projectName": "ErasmusPizza",
+        "projectPath": "C:\\Users\\iop-1\\OneDrive\\Desktop\\A22_Ues\\Software engineering\\ErasmusPizza\\ErasmusPizza.csproj",
+        "packagesPath": "C:\\Users\\iop-1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iop-1\\OneDrive\\Desktop\\A22_Ues\\Software engineering\\ErasmusPizza\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iop-1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

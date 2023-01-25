@@ -1,0 +1,15 @@
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\bin\Debug\net6.0\ErasmusPizza.exe
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\bin\Debug\net6.0\ErasmusPizza.deps.json
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\bin\Debug\net6.0\ErasmusPizza.runtimeconfig.json
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\bin\Debug\net6.0\ErasmusPizza.dll
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\bin\Debug\net6.0\ErasmusPizza.pdb
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.csproj.AssemblyReference.cache
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.AssemblyInfoInputs.cache
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.AssemblyInfo.cs
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.csproj.CoreCompileInputs.cache
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.dll
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\refint\ErasmusPizza.dll
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.pdb
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ErasmusPizza.genruntimeconfig.cache
+C:\Users\iop-1\OneDrive\Desktop\A22_Ues\Software engineering\ErasmusPizza\obj\Debug\net6.0\ref\ErasmusPizza.dll
